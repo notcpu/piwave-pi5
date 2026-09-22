@@ -1,6 +1,4 @@
-<div align=center>
-<img alt="PiWave image" src="https://piwave.xyz/static/img/logo.png"/>
-<h1>PiWave</h1>
+<h1>Pi 5 PiWave</h1>
 </div>
 
 **PiWave** is a Python module for FM broadcasting on Raspberry Pi with RDS support. It picks the best transmission backend for your frequency automatically.
@@ -17,4 +15,4 @@ pw.play("song.mp3")
 
 > [!WARNING]
 > Transmitting RF may require authorisation and is illegal without it in most countries. Use a dummy load / shielded setup, verify with SDR. Authors accept no liability.
-> Credits to DouxxTech for the original repository
+> **Credits to DouxxTech for the original repository**
