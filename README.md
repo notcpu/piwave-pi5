@@ -13,6 +13,8 @@ pw = PiWave(frequency=100.0, ps="MyRadio", rt="Hello")
 pw.play("song.mp3")
 ```
 
+THIS IS NOT FINAL AND SHOULD NOT BE USED, I MADE THIS REPO TO TEST ONLY
+
 > [!WARNING]
 > Transmitting RF may require authorisation and is illegal without it in most countries. Use a dummy load / shielded setup, verify with SDR. Authors accept no liability.
 > **Credits to DouxxTech for the original repository**
