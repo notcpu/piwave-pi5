@@ -1,0 +1,29 @@
+*
+
+# main module
+!/piwave/
+!/piwave/**
+
+# utilities
+!/.gitignore
+!/README.md
+!/LICENSE
+
+# install / uninstall scripts
+!/install.sh
+!/uninstall.sh
+
+# experimental Pi 5 native RF research scaffold
+!/c_src/
+!/c_src/pi5_fm/
+!/c_src/pi5_fm/**
+
+# python packaging
+!/setup.py
+!/pyproject.toml
+!/setup.cfg
+
+# workflows
+!/.github/workflows/**
+
+**__pycache__**
